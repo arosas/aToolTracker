@@ -12,4 +12,4 @@ This application this is an inventory tracker for home or small businesses to us
 
 ## License
 
-TBD
+See License file in this repository
